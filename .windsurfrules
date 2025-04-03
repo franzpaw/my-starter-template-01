@@ -1,0 +1,20 @@
+- Less Code: Follow always the saying "The simpler the better." For example use uuidv4() instead of writing own function
+- Remember: Better Performance - Server components are more efficient. Use client components only when necessary.
+- Simpler Maintenance: Dont make to many components. Fewer moving parts means easier debugging
+- Follows Best Practices: Matches the example in my best practices folder @best-practice/ including:
+  - @file-structure.md,  @crud-operations.md, authentication.md
+
+
+  My normal tech-stack:
+  - Next.js 15 (app router)
+  - TypeScript
+  - Prisma
+  - Clerk
+  - TailwindCSS
+
+
+  Always following newest best practices. When doing implementation always check newest docs. Helpfull docs are:
+  - https://nextjs.org/docs
+  - https://clerk.com/docs
+  - https://prisma.io/docs
+  - https://tailwindcss.com/docs
